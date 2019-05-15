@@ -11,8 +11,12 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-graphql": "0.8.0",
+<<<<<<< HEAD
     "graphql": "14.3.0",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.8"
+=======
+    "graphql": "14.3.0"
+>>>>>>> 6467802c25456302c38afe0db7a898690e3a9c35
   }
 }
